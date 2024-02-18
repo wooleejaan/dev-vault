@@ -2,6 +2,7 @@
 
 [NETWORK]<br>
 [[네트워크 기초] 웹과 네트워크 기본](/qdd/NETWORK/[네트워크%20기초]%20웹과%20네트워크%20기본.md)<br>
+[[네트워크 기초] 간단한 프로토콜 HTTP](/qdd/NETWORK/[네트워크%20기초]%20간단한%20프로토콜%20HTTP.md)<br>
 
 [WEB]<br>
 [HTTP 캐시 기초](/qdd/WEB/HTTP%20캐시%20기초.md)<br>
