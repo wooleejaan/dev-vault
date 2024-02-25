@@ -1,7 +1,7 @@
 # Dev study vault
 
 <details>
-<summary>computer architecture</summary>
+<summary>Computer Architecture</summary>
 
 [Accumulator, Memory Hierarchy](./ComputerArchitecture/Accumulator,MemoryHierarchy/_.md)<br>
 [Building memory with logic gates](./ComputerArchitecture/building-memory-with-logic-gates/_.md)<br>
@@ -9,6 +9,29 @@
 [Logic date, Adder](./ComputerArchitecture/logic-gate,adder/_.md)<br>
 [Multiplexer, Demultiplexer, Decoder](./ComputerArchitecture/Multiplexer,Demultiplexer,Decoder/_.md)<br>
 [Oscillator, Filp-Flop](./ComputerArchitecture/oscillator,Flip-Flop/_.md)<br>
+
+</details>
+
+<details>
+<summary>Operating System</summary>
+
+[Boot Sequence](./OperatingSystem/boot-sequence/_.md)<br>
+[Call Stack and Process heap](./OperatingSystem/call-stack-and-process-heap/_.md)<br>
+[Context Switch](./OperatingSystem/context-switch/_.md)<br>
+[File System](./OperatingSystem/file-system/_.md)<br>
+[Interprocess Communication](./OperatingSystem/interprocess-communication/_.md)<br>
+[Kernel and Shell](./OperatingSystem/kernel-and-shell/_.md)<br>
+[Page Replacement Policy](./OperatingSystem/page-replacement-policy/_.md)<br>
+[Process](./OperatingSystem/process/_.md)<br>
+[Process Scheduling](./OperatingSystem/process-scheduling/_.md)<br>
+[Process and Registers](./OperatingSystem/processes-and-registers/_.md)<br>
+[Role of the OS](./OperatingSystem/role-of-the-os/_.md)<br>
+[Scheduling Algorithm](./OperatingSystem/scheduling-algorithm/_.md)<br>
+[System Calls, Kernel mode](./OperatingSystem/system-calls-and-kernel-mode/_.md)<br>
+[Thread](./OperatingSystem/thread/_.md)<br>
+[Thread Sysnchronization](./OperatingSystem/thread-synchronization/_.md)<br>
+[Virtual Machine](./OperatingSystem/virtual-machine/_.md)<br>
+[Virtual Memory and Paging system](./OperatingSystem/virtual-memory-and-paging-system/_.md)<br>
 
 </details>
 
@@ -29,6 +52,3 @@ js<br>
 
 tdd<br>
 [TDD 이해하기](/qdd/TEST-DRIVEN-DEVELOPMENT/TDD%20이해하기.md)<br>
-
-legacy<br>
-[LEGACY CS](/qdd/LEGACY_CS/)<br>
