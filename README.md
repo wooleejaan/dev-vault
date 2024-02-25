@@ -2,12 +2,14 @@
 
 <details>
 <summary>computer architecture</summary>
+
 [Accumulator, Memory Hierarchy](./ComputerArchitecture/Accumulator,MemoryHierarchy/_.md)<br>
 [Building memory with logic gates](./ComputerArchitecture/building-memory-with-logic-gates/_.md)<br>
 [How Computers do math](./ComputerArchitecture/how-computers-do-math/_.md)<br>
 [Logic date, Adder](./ComputerArchitecture/logic-gate,adder/_.md)<br>
 [Multiplexer, Demultiplexer, Decoder](./ComputerArchitecture/Multiplexer,Demultiplexer,Decoder/_.md)<br>
 [Oscillator, Filp-Flop](./ComputerArchitecture/oscillator,Flip-Flop/_.md)<br>
+
 </details>
 
 network<br>
