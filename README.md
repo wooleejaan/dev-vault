@@ -53,6 +53,7 @@
 [웹과 네트워크 기본](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20웹과%20네트워크%20기본.md)<br>
 [http 메시지](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP%20메시지.md)<br>
 [http 상태코드](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP%20상태코드.md)<br>
+[http 연계 웹 서버](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP와%20연계하는%20웹%20서버.md)<br>
 
 </details>
 
