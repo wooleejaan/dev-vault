@@ -1,6 +1,16 @@
 # Dev study vault
 
 <details>
+<summary>Frontend</summary>
+
+[Partial Pre-Rendering in nextjs 14](./FrontEnd/Partial-Pre-Rendering/_.md)<br>
+[모노레포 기초와 모노레포 구축 연습](./FrontEnd/monorepo/모노레포%20기초와%20모노레포%20구축%20연습.md)<br>
+[JS의 객체 관리 방식 - 인라인 캐싱과 히든 클래스](./FrontEnd/how-javascript-manages-objects/_.md)<br>
+[TDD 이해하기](./FrontEnd/tdd-first/_.md)<br>
+
+</details>
+
+<details>
 <summary>Computer Architecture</summary>
 
 [Accumulator, Memory Hierarchy](./ComputerArchitecture/Accumulator,MemoryHierarchy/_.md)<br>
@@ -55,14 +65,5 @@
 [http 상태코드](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP%20상태코드.md)<br>
 [http 연계 웹 서버](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP와%20연계하는%20웹%20서버.md)<br>
 [http 헤더](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP%20헤더.md)<br>
-
-</details>
-
-<details>
-<summary>Frontend</summary>
-
-[모노레포 기초와 모노레포 구축 연습](./FrontEnd/monorepo/모노레포%20기초와%20모노레포%20구축%20연습.md)<br>
-[JS의 객체 관리 방식 - 인라인 캐싱과 히든 클래스](./FrontEnd/how-javascript-manages-objects/_.md)<br>
-[TDD 이해하기](./FrontEnd/tdd-first/_.md)<br>
 
 </details>
