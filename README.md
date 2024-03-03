@@ -59,7 +59,7 @@
 [HTTP 캐시 기초](./NetworkAndWeb/basic-of-http-cache/_.md)<br>
 [JWT가 안전한 이유](./NetworkAndWeb/jwt/_.md)<br>
 
-http/1.1 기초<br>
+http/1.1 기반 네트워크 기초<br>
 [간단한 프로토콜 http](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20간단한%20프로토콜%20HTTP.md)<br>
 [웹과 네트워크 기본](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20웹과%20네트워크%20기본.md)<br>
 [http 메시지](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTP%20메시지.md)<br>
@@ -69,6 +69,7 @@ http/1.1 기초<br>
 [https](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20HTTPS.md)<br>
 [http 인증 기초](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20인증%20기초.md)<br>
 [http 기반 추가 프로토콜](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20http%20기반%20추가%20프로토콜.md)<br>
+[웹 공격 기술](./NetworkAndWeb/basic-of-network/[네트워크%20기초]%20웹%20공격%20기술.md)<br>
 
 </details>
 
