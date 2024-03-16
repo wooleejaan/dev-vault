@@ -79,5 +79,6 @@ http/1.1 기반 네트워크 기초<br>
 [Index 기본 개념](./Database/index/_.md)<br>
 [Database 정의, 그리고 DCL과 DDL](./Database/sqld-basic/week1/_.md)<br>
 [DML과 TCL, SELECT 문 기본 구조(DISTINCT, COUNT, 기본함수, DECODE, CASE WHEN, ORDER](./Database/sqld-basic/week2/_.md)<br>
+[WHERE, SubQuery, Group by, Having](./Database/sqld-basic/week3/_.md)<br>
 
 </details>
