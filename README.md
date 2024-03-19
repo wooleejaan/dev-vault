@@ -7,7 +7,8 @@
 [모노레포 기초와 모노레포 구축 연습](./FrontEnd/monorepo/모노레포%20기초와%20모노레포%20구축%20연습.md)<br>
 [JS의 객체 관리 방식 - 인라인 캐싱과 히든 클래스](./FrontEnd/how-javascript-manages-objects/_.md)<br>
 [TDD 이해하기](./FrontEnd/tdd-first/_.md)<br>
-[fe 예제코드](https://github.com/wooleejaan/practicalfrontendarchives)<br>
+[FE 예제코드](https://github.com/wooleejaan/practicalfrontendarchives)<br>
+[FE 개발 관련 사소한 팁](https://github.com/wooleejaan/programmingarchives)<br>
 
 </details>
 
