@@ -1,4 +1,4 @@
-# Dev study vault
+# Software Development Vault
 
 <details>
 <summary>Frontend</summary>
